@@ -1,5 +1,52 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "MChtest"]
+	path = MChtest
+	url = https://github.com/cran/MChtest
+[submodule "asht"]
+	path = asht
+	url = https://github.com/cran/asht
+[submodule "binseqtest"]
+	path = binseqtest
+	url = https://github.com/cran/binseqtest
+[submodule "bpcp"]
+	path = bpcp
+	url = https://github.com/cran/bpcp
+[submodule "choplump"]
+	path = choplump
+	url = https://github.com/cran/choplump
+[submodule "csci"]
+	path = csci
+	url = https://github.com/cran/csci
+[submodule "exact2x2"]
+	path = exact2x2
+	url = https://github.com/cran/exact2x2
+[submodule "exactci"]
+	path = exactci
+	url = https://github.com/cran/exactci
+[submodule "hbim"]
+	path = hbim
+	url = https://github.com/cran/hbim
+[submodule "interval"]
+	path = interval
+	url = https://github.com/cran/interval
+[submodule "nivm"]
+	path = nivm
+	url = https://github.com/cran/nivm
+[submodule "oceCens"]
+	path = oceCens
+	url = https://github.com/cran/oceCens
+[submodule "perm"]
+	path = perm
+	url = https://github.com/cran/perm
+[submodule "rateratio.test"]
+	path = rateratio.test
+	url = https://github.com/cran/rateratio.test
+[submodule "saws"]
+	path = saws
+	url = https://github.com/cran/saws
+[submodule "ssanv"]
+	path = ssanv
+	url = https://github.com/cran/ssanv
